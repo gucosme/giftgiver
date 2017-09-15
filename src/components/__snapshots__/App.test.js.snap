@@ -68,6 +68,7 @@ ShallowWrapper {
         "context": Object {},
         "props": Object {},
         "refs": Object {},
+        "removeGift": [Function],
         "state": Object {
           "gifts": Array [],
         },
